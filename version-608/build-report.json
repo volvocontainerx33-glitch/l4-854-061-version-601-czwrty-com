@@ -1,0 +1,13 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages": 2014,
+  "jpg_files_in_output": 0,
+  "analytics_missing": [],
+  "category_coverage": 2000,
+  "detail_coverage": 2000,
+  "player_sample_missing_source": [],
+  "zip_size_bytes": 13191966,
+  "video_urls_extracted": 20
+}
